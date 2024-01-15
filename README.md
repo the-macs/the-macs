@@ -1,7 +1,7 @@
 ### Hi there 👋,
 I am Esa Hadistra, an enthusiast on Web Development and learning on Mobile Development.
 
-- 🔭 I’m currently working on Some Corporate </br>
+- 🔭 I’m currently working on some corporate </br>
 - 💻 I’m currently learning on flutter </br>
 - 💬 Ask me about anything.</br>
 - 📫 How to reach me: <a href="esahadistra@gmail.com">Email me!</a>  </br>
